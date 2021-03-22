@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Dylan Nguyen
-- ❄ I'm currently based in Helsinki, Finland
+- ❄ Helsinki, Finland
 - 🖥 Currently Backend Developer/Data Engineer @Trafore Oy
 - 📖 Master in Signal, Speech and Language Processing (SSLP), Bachelor in Data Science @Aalto University
 - 👀 I’m interested in Data Engineer, Big Data and Machine Learning
-- 🌱 I’m currently learning Data Engineering, Data Pipeline, and Data Streaming stacks, such as Kafka and Spark.
+- 🌱 I’m learning Data Engineering, Data Pipeline, and Data Streaming stacks, such as Kafka and Spark.
 - 📫 Reach me at dat.t.nguyen@aalto.fi
 
 <!---
