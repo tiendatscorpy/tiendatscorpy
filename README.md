@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dylan Nguyen
+- Portfolio: https://tiendatscorpy.github.io/
 - ❄ Helsinki, Finland
 - 🖥 Currently Backend Developer/Data Engineer @Trafore Oy
 - 📖 Master in Signal, Speech and Language Processing (SSLP), Bachelor in Data Science @Aalto University
