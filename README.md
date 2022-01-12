@@ -2,8 +2,8 @@
 - Portfolio: https://tiendatscorpy.github.io/
 - ❄ Helsinki, Finland
 - 🖥  Currently Cloud Developer @Basware, Finland
-- 📖  Master in Signal, Speech and Language Processing (SSLP), Bachelor in Data Science @Aalto University
-- 👀  I’m interested in Data Engineer, Big Data and Machine Learning
+- 📖  Master in Security and Cloud Computing @Aalto University
+- 👀  I’m interested in Data Engineer and Cloud Development
 - 🌱  I’m learning Data Engineering, Data Pipeline, and Data Streaming stacks, such as Kafka and Spark.
 - 📫  Reach me at dat.t.nguyen@aalto.fi
 
