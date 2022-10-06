@@ -5,7 +5,7 @@
 - 📖  Master in Security and Cloud Computing @Aalto University
 - 👀  I’m interested in Data Engineer and Cloud Development
 - 🌱  I’m learning Data Engineering, Data Pipeline, and Data Streaming stacks, such as Kafka and Spark.
-- 📫  Reach me at dat.t.nguyen@aalto.fi
+- 📫  Reach me at tiendatnguyen.kuas@gmail.com
 
 <!---
 tiendatscorpy/tiendatscorpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
